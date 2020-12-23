@@ -52,10 +52,10 @@ function Weather() {
             placeholder = "city" 
             onChange = {e => handleChange(e)}/>
               &nbsp;&nbsp;&nbsp;&nbsp;
-            <input type = "text" 
+            {/* <input type = "text" 
             name = "country" 
             placeholder = "country" 
-            onChange = {e => handleChange(e)} />
+            onChange = {e => handleChange(e)} /> */}
             <button className = "getweather" 
             onClick ={(e) => weatherData(e)}>Submit
                 </button>
