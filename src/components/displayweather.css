@@ -12,6 +12,7 @@
   border-radius: 20px;
   position: relative;
   background: rgb(245, 242, 242);
+  background-image: url("Weather.jpg");
   border: 1px solid black;
 }
 
